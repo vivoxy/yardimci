@@ -6,7 +6,7 @@ Hello Firde Friends
 
 I have made a script to help many hosting companies. Our script will be constantly updated and will not bother you with problems such as constantly searching for codes over the internet.
 
-<li>Script sadece cPanel / CentOS Web Server'de sorunsuz bir şekilde çalışmaktadır.</li>
+<li>The script works just fine on cPanel / CentOS Web Server.</li>
 
 <img src="https://image.prntscr.com/image/_tlg7V9gQfaTiu76wMwqdg.png">
 
