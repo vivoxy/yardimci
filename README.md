@@ -100,3 +100,5 @@ sh yardimci.sh
 
 Şimdiden teşekkürler.
 
+
+https://utopian.io/@northeaster
