@@ -10,6 +10,6 @@ Bir çok hosting firmasının işine yarayacak yardımcı komutları bir script 
 <li>Nasıl Kurulur & Çalışır;</li>
 Aşağıdaki komutları CentOS SSH ekranına girmeniz yeterlidir.
 
-cd /root
-wget https://raw.github.com/vivoxy/yardimci/master/yardimci.sh
-sh yardimci.sh
+cd /root<br>
+wget https://raw.github.com/vivoxy/yardimci/master/yardimci.sh<br>
+sh yardimci.sh<br>
