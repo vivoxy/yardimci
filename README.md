@@ -1,5 +1,4 @@
 # yardimci
-# yardimci
 
 English Expression:
 
@@ -21,7 +20,7 @@ You should be able to enter the following commands into the CentOS SSH partition
 cd /root<br>
 wget https://raw.github.com/vivoxy/yardimci/master/yardimci.sh<br>
 sh yardimci.sh
-
+<br>
 <li>What's Inside;</li>
 
 1 - Server Reboot command is applied
@@ -101,5 +100,3 @@ sh yardimci.sh
 
 Şimdiden teşekkürler.
 
-
-<br /><hr/><em>Posted on <a href="https://utopian.io/utopian-io/@northeaster/centos-sunuculari-icin-yardimci-komutlar">Utopian.io -  Rewarding Open Source Contributors</a></em><hr/>
