@@ -37,10 +37,10 @@ sleep 3
 cd /root
 rm -rf yardimci.sh
 rm -rf yardimci.log
-wget https://raw.github.com/sdtyldz/linuxbashcleaner/master/temizlikci.sh
+wget https://raw.github.com/vivoxy/yardimci/master/yardimci.sh
 touch yardimci.log
 chmod +x /root/yardimci.sh
-sh temizlikci.sh
+sh yardimci.sh
 ;;
 1)
 clear
